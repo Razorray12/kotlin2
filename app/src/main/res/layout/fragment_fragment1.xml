@@ -11,6 +11,13 @@
         android:text="First Fragment"
         android:textSize="24sp" />
 
+    <TextView
+        android:id="@+id/datatext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp" />
+
+
     <Button
         android:id="@+id/btn_next"
         android:layout_width="wrap_content"
